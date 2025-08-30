@@ -1,0 +1,17 @@
+redis:
+  address: "localhost:6379"
+  password: ""
+  db: 0
+
+dynamodb:
+  region: "us-west-2"
+  endpoint: "http://localhost:8000"
+  access_key_id: "dummy"
+  secret_access_key: "dummy"
+  session_token: ""
+
+smtp:
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  smtp_user: "naga.siriguppa@zomato.com"
+  smtp_password: ""
