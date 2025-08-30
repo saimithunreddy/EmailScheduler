@@ -9,7 +9,7 @@ Utilised Redis sorted list to create a queue of emails and used go routine to fe
 1. Clone the repository:
 
 	```sh
-	git clone https://github.com/nithin-gith/email_service.git
+	git clone https://github.com/saimithunreddy/EmailScheduler.git
 	cd email_service
 	```
 
@@ -45,7 +45,7 @@ Utilised Redis sorted list to create a queue of emails and used go routine to fe
 		"email": "recipient@example.com",
 		"subject": "Your Subject",
 		"message": "Your message here",
-        "date":"2024-07-14T17:02:17Z"
+        "date":"2025-07-14T17:02:17Z"
 	}'
 	```
 
